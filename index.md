@@ -10,7 +10,8 @@ redirect_from: "/en/index.html"
     <div id="overlay"></div>
 
     <section id="description">
-        <a href="/" class="express">ATOMIQ</a>
+        <!--a href="/" class="atomiq">ATOMIQ</a-->
+        <img class="atomiq" src="/images/logo/atomiq-logo-light-bg-300x100.png"></img>
 
         <span class="description">Microservices for
         <a href='https://nodejs.org/en/'>Node.js</a>
