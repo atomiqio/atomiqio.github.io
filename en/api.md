@@ -6,7 +6,7 @@ redirect_from: "/api.html"
 ---
 <div id="api-doc" markdown="1">
 
-  <h1>4.x API</h1>
+  <h1>1.x API</h1>
 
   <a id='express' class='h2'></a>
   {% include api/{{ page.lang }}/1x/express.md %}
