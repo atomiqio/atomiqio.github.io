@@ -49,16 +49,16 @@ Feel free to make changes to the template files or the document files. The suppo
 ##### Home page
 `index.md`
 
-##### Header (navbar)
+##### Main header (navbar)
 `_includes/header/header-en.html`
 
 The menus are mapped to markdown files located in the en directory for the actual content. 
 
-##### page <HEAD>
-`_includes/head.html`
-
 ##### Footer
 `_includes/header/footer-en.html`
+
+##### Page head (`<HEAD>`)
+`_includes/head.html`
 
 ##### Home page layout template
 `_layouts/home.html`
