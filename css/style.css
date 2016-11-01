@@ -14,7 +14,8 @@
 
 body {
   font: 400 14px/1.6 "Open Sans", sans-serif;
-  background: url(/images/bg.jpg);
+  /* background: url(/images/bg.jpg);*/
+  background: #white;
   margin: 0;
   padding: 0;
   color: #555;
@@ -200,9 +201,9 @@ a {
 
 #logo {
   position: fixed;
-  top: 2px;
+  top: 0;
   margin: 0;
-  padding: 10px 25px;
+  padding: 5px 25px 5px 75px;
   width: auto;
   border-left: none;
 }
