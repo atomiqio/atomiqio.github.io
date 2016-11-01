@@ -10,47 +10,43 @@ redirect_from: "/en/index.html"
     <div id="overlay"></div>
 
     <section id="description">
-        <!--a href="/" class="atomiq">ATOMIQ</a-->
-        <img class="atomiq" src="/images/logo/atomiq-logo-light-bg-300x100.png"></img>
-
-        <span class="description">Microservices for
-        <a href='https://nodejs.org/en/'>Node.js</a>
+        <span class="description">The open source CaaS platform for
+            <a href="https://docker.com">Docker</a>
         </span>
     </section>
 
-    <div id="install-command">
-      $ npm install -g yo<br>
-      $ npm install -g generator-atomiq<br>
-      $ yo atomiq
-    </div>
-</section>
+    <p>Atomiq is an open-source Container-as-a-Service (<a href="https://blog.docker.com/2016/02/containers-as-a-service-caas/">CaaS</a>)
+    platform for managing and monitoring containerized applications,  microservices, and microservice workers as part
+    of a unified <a href="https://en.wikipedia.org/wiki/Serverless_computing">serverless computing</a> environment.
+    It is based on the swarm mode features introduced with Docker 1.12, providing developers with
+    a straightforward development strategy for building on these features without the need to stray from the
+    core Docker ecosystem and adopt complex third party frameworks.</p>
 
-<section id="intro">
+    <p>There is a 5 minute introductory video under <a href="/appcelerator/amp/blob/master/docs">docs</a>.</p>
 
-  <div id="boxes" class="clearfix">
-      <div id="microservices">
-          <h3>Microservices</h3> Atomiq is a generator and lightweight
-          library to facilitate writing microservices for container
-          environments. It is not a framework and there is no "magic".<br><br>
-          Atomiq does offer a straightforward directory-based routing
-          convention on top of <a href='http://expressjs.com'>Express</a>
-          based on ES6 classes that you can exploit if you desire.
-      </div>
+    <p>This current version of this project is only a few months old and under heavy development. It is not
+    ready for production.</p>
 
-      <div id="babel">
-          <h3>Babel</h3> Atomiq uses ES6 and <code>async/await</code>, and provides support for automatically transpiling your source files with
-          <a href="https://babeljs.io/">Babel</a>.
-      </div>
+    <h2>Roadmap</h2>
 
-      <div id="docker">
-          <h3>Docker</h3> Microservices are intended primarily
-          for container environments. Support for running in
-          <a href="https://docker.com">Docker</a>
-          containers and for debugging with Node Inspector is built in.
-      </div>
+    <p>See <a href="/appcelerator/amp/blob/master/project/ROADMAP.md">ROADMAP</a>.</p>
 
-  </div>
+    <h2>Join the conversation</h2>
 
+    <p>Join the <a href="https://amp.mobilize.io">AMP Community</a> and chat with other AMP users and contributors.</p>
+
+    <h2>Contributing</h2>
+
+    <p>We would love for you to get involved. See <a href="/appcelerator/amp/blob/master/project/CONTRIBUTING.md">CONTRIBUTING</a> and the other docs under <a href="/appcelerator/amp/blob/master/project">the project directory</a>.</p>
+
+    <h2>Getting started</h2>
+
+    <p>See <a href="/appcelerator/amp/blob/master/docs">docs</a>.</p>
+
+    <h2>License</h2>
+
+    <p>AMP is licensed under the Apache License, Version 2.0. See <a href="https://github.com/appcelerator/amp/blob/master/LICENSE">LICENSE</a>
+    for the full license text.</p>
 </section>
 
 
