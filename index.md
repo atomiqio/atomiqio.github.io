@@ -22,7 +22,7 @@ redirect_from: "/en/index.html"
     a straightforward development strategy for building on these features without the need to stray from the
     core Docker ecosystem and adopt complex third party frameworks.</p>
 
-    <p>There is a 5 minute introductory video under <a href="https://github.com/appcelerator/amp/blob/master/docs">docs</a>.</p>
+    <p>You can find more information, including a 5 minute introductory video under <a href="https://github.com/appcelerator/amp/blob/master/docs">docs</a>.</p>
 
     <p>This current version of this project is only a few months old and under heavy development. It is not
     ready for production.</p>
