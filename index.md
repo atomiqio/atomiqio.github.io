@@ -31,26 +31,31 @@ redirect_from: "/en/index.html"
        with <code>amp cluster create</code> using the CLI.
     </p>
     
-    <h2>Getting started
-      <p>For getting started and more detailed information, see <a href="https://github.com/appcelerator/amp/blob/master/docs">docs</a>.</p>
-    </h2>
+    <h2>Getting started</h2>
+      <p>
+        For getting started and more detailed information, see <a href="https://github.com/appcelerator/amp/blob/master/docs">docs</a>.
+      </p>
     
-    <h2>Contributing
-      <p>If you want to hack on the project, we have a fully containerized toolchain.
-         All you need is Docker to build, test, and deploy! We would love for you to get involved,
-         so check out <a href="https://github.com/appcelerator/amp/blob/master/project/CONTRIBUTING.md">CONTRIBUTING</a>
-         and other docs under <a href="https://github.com/appcelerator/amp/blob/master/project">project</a>.</p>
-    </h2>
+    <h2>Contributing</h2>
+      <p>
+        If you want to hack on the project, we have a fully containerized toolchain.
+        All you need is Docker to build, test, and deploy! We would love for you to get involved,
+        so check out <a href="https://github.com/appcelerator/amp/blob/master/project/CONTRIBUTING.md">CONTRIBUTING</a>
+        and other docs under <a href="https://github.com/appcelerator/amp/blob/master/project">project</a>.
+      </p>
     
-    <h2>Community
-      If you want to chat with the developers and other members of the community, we've got an
-      IRC channel (#atomiq) and you can also join our Slack channel in the next day or so.
-    </h2>
+    <h2>Community</h2>
+      <p>
+        If you want to chat with the developers and other members of the community, we've got an
+        IRC channel (#atomiq) and you can also join our Slack channel in the next day or so.
+      </p>
 
     <h2>License</h2>
 
-    <p>ATOMIQ is licensed under the Apache License, Version 2.0. See <a href="https://github.com/atomiqio/atomiq/blob/master/LICENSE">LICENSE</a>
-    for the full license text.</p>
+    <p>
+      ATOMIQ is licensed under the Apache License, Version 2.0. See <a href="https://github.com/atomiqio/atomiq/blob/master/LICENSE">LICENSE</a>
+      for the full license text.
+    </p>
 </section>
 
 
