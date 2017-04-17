@@ -18,7 +18,7 @@ redirect_from: "/en/index.html"
     <ul>
       <li>Host your own high availability cluster or use `cloud.atomiq.io`</li>
       <li><a href="https://github.com/docker/infrakit">Docker Infrakit</a> for self-healing infrastructure</li>
-      <li>Use Docker Compose v3 <a href="https://docs.docker.com/compose/compose-file/">stackfiles</a> to deploy your stacks (<a href="https://blog.docker.com/2016/02/containers-as-a-service-caas/">CaaS</a>)</li>
+      <li>Use Docker Compose v3 <a href="https://docs.docker.com/compose/compose-file/">stackfiles</a> to deploy your stacks in swarm mode (<a href="https://blog.docker.com/2016/02/containers-as-a-service-caas/">CaaS</a>)</li>
       <li>Support lambda style <a href="https://en.wikipedia.org/wiki/Serverless_computing">serverless</a> tasks (<a href="https://martinfowler.com/articles/serverless.html">FaaS</a>)</li>
       <li>Account management support for users, organizations and teams with role-based access controls</li>
       <li>Logs and metrics realtime filtered feeds and historical query support</li>
